@@ -1,5 +1,5 @@
 ```html
-<!DOCTYPE html>
+<!DOCTYPE AboutMe>
 <html lang="EN">
   <head>
     <meta charset="utf-8" />
