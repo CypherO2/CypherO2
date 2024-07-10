@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/github/followers/CypherO2">
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/programming%2languages-18-blue">
+  <img src="https://img.shields.io/badge/programming&languages-18-blue">
   <img src="https://img.shields.io/badge/language-english-royalblue">
   <img src="https://img.shields.io/badge/projects-3-violet">
   <img src="https://img.shields.io/github/followers/CypherO2">
