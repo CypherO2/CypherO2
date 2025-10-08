@@ -16,4 +16,14 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CypherO2&theme=react&bg_color=1c1917&hide_border=false" width="99%"/>
 </p>
 <!--START_SECTION:waka-->
+
+```txt
+From: 06 October 2025 - To: 07 October 2025
+
+Total Time: 36 mins
+
+TypeScript   36 mins         █████████████████████████   99.88 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+```
+
 <!--END_SECTION:waka-->
