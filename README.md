@@ -15,3 +15,5 @@
 <p align=center>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CypherO2&theme=react&bg_color=1c1917&hide_border=false" width="99%"/>
 </p>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
