@@ -18,15 +18,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 October 2025 - To: 24 June 2026
+From: 06 October 2025 - To: 25 June 2026
 
-Total Time: 235 hrs 36 mins
+Total Time: 241 hrs 2 mins
 
-Python        97 hrs 41 mins        ██████████░░░░░░░░░░░░░░░   39.81 %
-TypeScript    86 hrs 1 min          ████████▓░░░░░░░░░░░░░░░░   35.05 %
-Markdown      17 hrs 3 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.95 %
-Other         9 hrs 49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
-Text          6 hrs 25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
+Python        99 hrs 9 mins         ██████████░░░░░░░░░░░░░░░   39.53 %
+TypeScript    89 hrs 14 mins        █████████░░░░░░░░░░░░░░░░   35.57 %
+Markdown      17 hrs 16 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   06.89 %
+Other         9 hrs 49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
+Text          6 hrs 25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
 ```
 
 <!--END_SECTION:waka-->
