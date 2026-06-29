@@ -15,18 +15,3 @@
 <p align=center>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CypherO2&theme=react&bg_color=1c1917&hide_border=false" width="99%"/>
 </p>
-<!--START_SECTION:waka-->
-
-```txt
-From: 06 October 2025 - To: 28 June 2026
-
-Total Time: 241 hrs 2 mins
-
-Python        99 hrs 9 mins         ██████████░░░░░░░░░░░░░░░   39.53 %
-TypeScript    89 hrs 14 mins        █████████░░░░░░░░░░░░░░░░   35.57 %
-Markdown      17 hrs 16 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   06.89 %
-Other         9 hrs 49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
-Text          6 hrs 25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
-```
-
-<!--END_SECTION:waka-->
